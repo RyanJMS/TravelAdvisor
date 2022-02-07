@@ -1,3 +1,3 @@
 # TravelAdvisor
 
-A travel advisor built with React, Material UI, and Travel Advisor API
+A travel advisor built with React, Material UI, Travel Advisor API, and Open Weather Map API
